@@ -62,9 +62,9 @@ npm start
 ## Edit file
 `./config.json`
 ```{
-    "ownerNumber": ["0@s.whatsapp.net","0@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
+    "ownerNumber": ["6285600380823@s.whatsapp.net","62856003808238@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ Sall-Md ×፝֟͜×",
+    "instagram" : "https://instagram.com/rafilukmanufaizal",
     "botName": "Haruka-Mdོ ",
     "footer": "WhatsApp Bot",
     "sessionName": "session",
